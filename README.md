@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on to pursuing the professional dream of data science <br>Working on ML, SQL, Visualization <br>Currently pursuing BE Engineering in Artificial intelligence and Data science <br>From Mumbai University 
+I am currently working on to pursuing the professional dream of data science <br>Working on ML, SQL, Visualization <br>Currently pursuing BE Engineering in Artificial intelligence and Data science <br>From Mumbai University.
 
 
 ## 🌐 Socials:
